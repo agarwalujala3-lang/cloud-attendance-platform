@@ -12,10 +12,10 @@ Manual attendance systems are time-consuming and error-prone. This project explo
 
 ## Architecture
 
-- **API Gateway** is used to expose REST APIs  
-- **AWS Lambda (Python)** processes attendance requests  
-- **DynamoDB** stores attendance data  
-- **IAM Roles** manage permissions securely  
+- **API Gateway** is used to expose REST APIs.  
+- **AWS Lambda (Python)** processes attendance requests.  
+- **DynamoDB** stores attendance data.  
+- **IAM Roles** manage permissions securely.  
 
 Client → API Gateway → Lambda → DynamoDB
 
@@ -29,11 +29,11 @@ Client → API Gateway → Lambda → DynamoDB
 
 ## Workflow
 
-- Attendance details are sent to the API endpoint  
-- **API Gateway** triggers the Lambda function  
-- **Lambda** validates the input and formats the data  
-- Attendance record is stored in **DynamoDB**  
-- A response is returned to confirm submission  
+- Attendance details are sent to the API endpoint.  
+- **API Gateway** triggers the Lambda function.  
+- **Lambda** validates the input and formats the data.  
+- Attendance record is stored in **DynamoDB**. 
+- A response is returned to confirm submission.  
 
 ## Technologies
 
@@ -45,16 +45,16 @@ Client → API Gateway → Lambda → DynamoDB
 
 ## What I Learned
 
-- Understanding serverless architecture and event-driven design  
-- Writing backend logic using AWS Lambda in Python  
-- Managing permissions using IAM roles  
-- Working with DynamoDB for NoSQL data storage  
+- Understanding serverless architecture and event-driven design.  
+- Writing backend logic using AWS Lambda in Python.  
+- Managing permissions using IAM roles.  
+- Working with DynamoDB for NoSQL data storage.  
 
 This project helped me become more confident in explaining AWS backend workflows during interviews.
 
 ## Future Enhancements
 
-- Authentication using AWS Cognito  
-- Attendance reporting and analytics  
-- Frontend dashboard integration  
-- Deployment automation using AWS SAM  
+- Authentication using AWS Cognito.  
+- Attendance reporting and analytics.  
+- Frontend dashboard integration.  
+- Deployment automation using AWS SAM.  
