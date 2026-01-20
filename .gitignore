@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+.venv/
+
+# AWS / Secrets
+.aws/
+*.pem
+*.key
+*.crt
+credentials
+config
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Node 
+node_modules/
+
+# Build / temp files
+dist/
+build/
+*.zip
+
+# Screenshots 
+# screenshots/*.png
