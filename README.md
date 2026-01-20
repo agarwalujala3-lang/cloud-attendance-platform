@@ -147,7 +147,7 @@ The system performed reliably and efficiently.
 
 This project was **fully deployed and tested on AWS.**
 
-- Verified components include:
+Verified components include:
 
 - Working frontend interface
 
