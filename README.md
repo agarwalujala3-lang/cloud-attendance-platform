@@ -159,7 +159,7 @@ Verified components include:
 
 - IAM roles with required permissions
 
-**Additional screenshots are available in the** /screenshots **directory**, including:
+**Additional screenshots are available in the** ![Screenshot](screenshots)**directory**, including:
 
 - Frontend UI
 
