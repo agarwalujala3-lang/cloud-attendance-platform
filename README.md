@@ -83,5 +83,7 @@ cd cloud-attendance-platform
 
 ## 👩‍💻 Author
 
+```text
 Ujala Agarwal
 Cloud & Backend Developer
+```
