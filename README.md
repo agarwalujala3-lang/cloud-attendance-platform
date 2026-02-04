@@ -20,6 +20,10 @@ Frontend (React)
 → Cognito (Authentication)
 → AWS rekognition (Recognition)
 
+<p align="center">
+  <img src="docs/architecture-diagram.png" alt="Architecture Diagram" width="700">
+</p>
+
 ## ⚙️ Tech Stack
 
 - **Frontend:** React, HTML, CSS, JavaScript
