@@ -21,7 +21,7 @@ Frontend (React)
 → AWS rekognition (Recognition)
 
 <p align="center">
-  <img src="docs/architecture-diagram.png" alt="Architecture Diagram" width="700">
+  <img src="docs/Architecture-Diagram.png" alt="Architecture Diagram" width="700">
 </p>
 
 ## ⚙️ Tech Stack
